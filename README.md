@@ -97,6 +97,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/h33DWIf.png"/>
 </p>
 <p>
-9) Configuring Help Topics for ticket options. (Admin Panel -> Manage -> Help Topics)
+9) Configuring Help Topics for ticket options. (Admin Panel -> Manage -> Help Topics)                                                              You've successfully successfully learned how to create users, configured SLAs and Help Topics!
 </p>
 <br />
